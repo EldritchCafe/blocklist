@@ -22,6 +22,7 @@ La présente liste recense les instances suspendues et masquées par [Eldritch C
 | aleph.land         | 2018-04-09 | Suspendue | Tolère le harcélement                                         |                                                    |
 | toot.love          | 2018-04-09 | Suspendue | Accueil des nazis                                             | https://ltch.fr/@Alda/98997706007765153            |
 | preteengirls.biz   | 2018-04-09 | Suspendue | Pédophilie                                                    |                                                    |
+| thechad.zone       | 2018-05-18 | Suspendue | Accueil des nazis et des masculinistes                        | https://eldritch.cafe/@Barmaid/100049722033511321  |
 
 ## Instances masquées
 
