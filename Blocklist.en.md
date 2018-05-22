@@ -23,6 +23,7 @@ This list is an inventory of every instances suspended or silenced by [Eldritch 
 | toot.love          | 2018-04-09 | Suspended | Home to nazis                                    | https://ltch.fr/@Alda/98997706007765153            |
 | preteengirls.biz   | 2018-04-09 | Suspended | Pedophilia                                       |                                                    |
 | thechad.zone       | 2018-05-18 | Suspended | Home to nazis and masculists                     | https://eldritch.cafe/@Barmaid/100049722033511321  |
+| pl.smuglo.li       | 2018-05-22 | Suspended | Pleroma version of gs.smuglo.li                  | https://eldritch.cafe/@Barmaid/100074692144857409  |
 
 ## Silenced instances
 
