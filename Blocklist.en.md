@@ -3,7 +3,7 @@ This list is an inventory of every instances suspended or silenced by [Eldritch 
 
 ## Suspended instances
 
-| Domain                  | Date       | Severity  | Reason                                           | More informations                                  |
+| Domain                  | Date       | Severity  | Reason                                           | More information                                  |
 | ----------------------- | ---------- | --------- | ------------------------------------------------ | -------------------------------------------------- |
 | shitposter.club         | 2018-04-09 | Suspended | Oppressive shitposting                           | https://github.com/nolanlawson/blocked-on-mastodon |
 | rainbowdash.net         | 2018-04-09 | Suspended | Oppressive shitposting                           | https://github.com/nolanlawson/blocked-on-mastodon |
@@ -20,9 +20,9 @@ This list is an inventory of every instances suspended or silenced by [Eldritch 
 | anitwitter.moe          | 2018-04-09 | Suspended | Oppressive shitposting                           | https://anitwitter.moe/about/more                  |
 | npf.mlpol.net           | 2018-04-09 | Suspended | Oppressive shitposting                           |                                                    |
 | aleph.land              | 2018-04-09 | Suspended | Enable harassment                                |                                                    |
-| toot.love               | 2018-04-09 | Suspended | Home to nazis                                    | https://ltch.fr/@Alda/98997706007765153            |
+| toot.love               | 2018-04-09 | Suspended | Home to Nazis                                    | https://ltch.fr/@Alda/98997706007765153            |
 | preteengirls.biz        | 2018-04-09 | Suspended | Pedophilia                                       |                                                    |
-| thechad.zone            | 2018-05-18 | Suspended | Home to nazis and masculists                     | https://eldritch.cafe/@Barmaid/100049722033511321  |
+| thechad.zone            | 2018-05-18 | Suspended | Home to Nazis and masculists                     | https://eldritch.cafe/@Barmaid/100049722033511321  |
 | pl.smuglo.li            | 2018-05-22 | Suspended | Pleroma version of gs.smuglo.li                  | https://eldritch.cafe/@Barmaid/100074692144857409  |
 | pleroma.rareome.ga      | 2018-06-06 | Suspended | Don't enforce messages' privacy status           | https://eldritch.cafe/@Barmaid/100160340726780637  |
 | waifu.social            | 2018-08-16 | Suspended | People from JVC                                  | https://eldritch.cafe/@Barmaid/100561860716459031  |
@@ -32,8 +32,8 @@ This list is an inventory of every instances suspended or silenced by [Eldritch 
 | freespeechextremist.com | 2018-12-08 | Suspended | Racism, sexism et transphobia                    | https://eldritch.cafe/@Barmaid/101205707262885691  |
 | liberdon.com            | 2018-12-19 | Suspended | Libertarian instance                             | https://eldritch.cafe/@Barmaid/101269325108620220  |
 | sinblr.com              | 2018-12-19 | Suspended | Pay to increase your number of followers         | https://eldritch.cafe/@Barmaid/101269325108620220  |
-| feminism.lgbt           | 2018-12-26 | Suspended | Sexism et child pornography (lolicon)            | https://eldritch.cafe/@Barmaid/101308712204974532  |
-| gameliberty.club        | 2018-12-27 | Suspended | Home to nazis                                    | https://eldritch.cafe/@Barmaid/101313123131827136  |
+| feminism.lgbt           | 2018-12-26 | Suspended | Sexism and child pornography (lolicon)           | https://eldritch.cafe/@Barmaid/101308712204974532  |
+| gameliberty.club        | 2018-12-27 | Suspended | Home to Nazis                                    | https://eldritch.cafe/@Barmaid/101313123131827136  |
 | melalandia.tk           | 2018-12-29 | Suspended | Hate speech and child pornography (lolicon)      | https://eldritch.cafe/@Barmaid/101325918467427039  |
 | rapefeminists.network   | 2019-01-19 | Suspended | Rape apology                                     | https://eldritch.cafe/@Barmaid/101445095780272860  |
 | mobile.co               | 2019-01-25 | Suspended | Far right instance                               | https://eldritch.cafe/@Barmaid/101480064757909197  |
@@ -42,7 +42,7 @@ This list is an inventory of every instances suspended or silenced by [Eldritch 
 
 ## Silenced instances
 
-| Domain                 | Date       | Severity                   | Reason                      | More informations                                 |
+| Domain                 | Date       | Severity                   | Reason                      | More information                                 |
 | ---------------------- | ---------- | -------------------------- | --------------------------- | ------------------------------------------------- |
 | pawoo.net              | 2018-04-09 | Silenced + rejected medias | Child pornography (lolicon) |                                                   |
 | social.targaryen.house | 2018-04-09 | Silenced                   | Enable harassment           |                                                   |
