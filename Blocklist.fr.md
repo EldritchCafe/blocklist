@@ -32,6 +32,7 @@ La présente liste recense les instances suspendues et masquées par [Eldritch C
 | freespeechextremist.com | 2018-12-08 | Suspendue | Racisme, sexisme et transphobie                               | https://eldritch.cafe/@Barmaid/101205707262885691  |
 | liberdon.com            | 2018-12-19 | Suspendue | Instance libertarienne                                        | https://eldritch.cafe/@Barmaid/101269306630768746  |
 | sinblr.com              | 2018-12-19 | Suspendue | Permet de payer pour augmenter son nombre d’abonné·e·s        | https://eldritch.cafe/@Barmaid/101269306630768746  |
+| feminism.lgbt           | 2018-12-26 | Suspendue | Sexisme et pédopornographie (lolicon)                         | https://eldritch.cafe/@Barmaid/101308712204974532  |
 
 ## Instances masquées
 

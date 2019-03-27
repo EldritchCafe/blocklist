@@ -32,6 +32,7 @@ This list is an inventory of every instances suspended or silenced by [Eldritch 
 | freespeechextremist.com | 2018-12-08 | Suspended | Racism, sexism et transphobia                    | https://eldritch.cafe/@Barmaid/101205707262885691  |
 | liberdon.com            | 2018-12-19 | Suspended | Libertarian instance                             | https://eldritch.cafe/@Barmaid/101269325108620220  |
 | sinblr.com              | 2018-12-19 | Suspended | Pay to increase your number of followers         | https://eldritch.cafe/@Barmaid/101269325108620220  |
+| feminism.lgbt           | 2018-12-26 | Suspended | Sexism et child pornography (lolicon)            | https://eldritch.cafe/@Barmaid/101308712204974532  |
 
 ## Silenced instances
 
