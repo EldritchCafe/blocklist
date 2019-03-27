@@ -30,6 +30,7 @@ La présente liste recense les instances suspendues et masquées par [Eldritch C
 | newjack.city            | 2018-11-11 | Suspendue | Nid de follow bots                                            | https://eldritch.cafe/@Barmaid/101054370921837295  |
 | the.hedgehoghunter.club | 2018-11-11 | Suspendue | Transphobie                                                   | https://eldritch.cafe/@Barmaid/101054513661104346  |
 | freespeechextremist.com | 2018-12-08 | Suspendue | Racisme, sexisme et transphobie                               | https://eldritch.cafe/@Barmaid/101205707262885691  |
+| liberdon.com            | 2018-12-19 | Suspendue | Instance libertarienne                                        | https://eldritch.cafe/@Barmaid/101269306630768746  |
 
 ## Instances masquées
 

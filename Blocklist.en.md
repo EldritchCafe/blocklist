@@ -30,6 +30,7 @@ This list is an inventory of every instances suspended or silenced by [Eldritch 
 | newjack.city            | 2018-11-11 | Suspended | Nest of follow bots                              | https://eldritch.cafe/@Barmaid/101054370921837295  |
 | the.hedgehoghunter.club | 2018-11-11 | Suspended | Transphobia                                      | https://eldritch.cafe/@Barmaid/101054513661104346  |
 | freespeechextremist.com | 2018-12-08 | Suspended | Racism, sexism et transphobia                    | https://eldritch.cafe/@Barmaid/101205707262885691  |
+| liberdon.com            | 2018-12-19 | Suspended | Libertarian instance                             | https://eldritch.cafe/@Barmaid/101269325108620220  |
 
 ## Silenced instances
 
