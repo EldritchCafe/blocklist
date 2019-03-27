@@ -26,6 +26,7 @@ La présente liste recense les instances suspendues et masquées par [Eldritch C
 | pl.smuglo.li       | 2018-05-22 | Suspendue | Version Pleroma de gs.smuglo.li                               | https://eldritch.cafe/@Barmaid/100074692144857409  |
 | pleroma.rareome.ga | 2018-06-06 | Suspendue | Ne respecte pas la confidentialité des messages               | https://eldritch.cafe/@Barmaid/100160320770382788  |
 | waifu.social       | 2018-08-16 | Suspendue | Antenne de JVC                                                | https://eldritch.cafe/@Barmaid/100561860716459031  |
+| albin.social       | 2018-10-23 | Suspendue | Utilise de la publicité ciblée                                | https://eldritch.cafe/@Barmaid/100946850501504142  |
 
 ## Instances masquées
 

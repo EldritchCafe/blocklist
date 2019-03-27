@@ -26,6 +26,7 @@ This list is an inventory of every instances suspended or silenced by [Eldritch 
 | pl.smuglo.li       | 2018-05-22 | Suspended | Pleroma version of gs.smuglo.li                  | https://eldritch.cafe/@Barmaid/100074692144857409  |
 | pleroma.rareome.ga | 2018-06-06 | Suspended | Don't enforce messages' privacy status           | https://eldritch.cafe/@Barmaid/100160340726780637  |
 | waifu.social       | 2018-08-16 | Suspended | People from JVC                                  | https://eldritch.cafe/@Barmaid/100561860716459031  |
+| albin.social       | 2018-10-23 | Suspended | Use targeted advertisement                       | https://eldritch.cafe/@Barmaid/100946850501504142  |
 
 ## Silenced instances
 
