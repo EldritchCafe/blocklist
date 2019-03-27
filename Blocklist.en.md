@@ -33,6 +33,7 @@ This list is an inventory of every instances suspended or silenced by [Eldritch 
 | liberdon.com            | 2018-12-19 | Suspended | Libertarian instance                             | https://eldritch.cafe/@Barmaid/101269325108620220  |
 | sinblr.com              | 2018-12-19 | Suspended | Pay to increase your number of followers         | https://eldritch.cafe/@Barmaid/101269325108620220  |
 | feminism.lgbt           | 2018-12-26 | Suspended | Sexism et child pornography (lolicon)            | https://eldritch.cafe/@Barmaid/101308712204974532  |
+| gameliberty.club        | 2018-12-27 | Suspended | Home to nazis                                    | https://eldritch.cafe/@Barmaid/101313123131827136  |
 
 ## Silenced instances
 
