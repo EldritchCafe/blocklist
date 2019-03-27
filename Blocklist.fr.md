@@ -24,6 +24,7 @@ La présente liste recense les instances suspendues et masquées par [Eldritch C
 | preteengirls.biz   | 2018-04-09 | Suspendue | Pédophilie                                                    |                                                    |
 | thechad.zone       | 2018-05-18 | Suspendue | Accueil des nazis et des masculinistes                        | https://eldritch.cafe/@Barmaid/100049722033511321  |
 | pl.smuglo.li       | 2018-05-22 | Suspendue | Version Pleroma de gs.smuglo.li                               | https://eldritch.cafe/@Barmaid/100074692144857409  |
+| pleroma.rareome.ga | 2018-06-06 | Suspendue | Ne respecte pas la confidentialité des messages               | https://eldritch.cafe/@Barmaid/100160320770382788  |
 
 ## Instances masquées
 
