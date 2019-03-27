@@ -35,6 +35,7 @@ La présente liste recense les instances suspendues et masquées par [Eldritch C
 | feminism.lgbt           | 2018-12-26 | Suspendue | Sexisme et pédopornographie (lolicon)                         | https://eldritch.cafe/@Barmaid/101308712204974532  |
 | gameliberty.club        | 2018-12-27 | Suspendue | Accueil des nazis                                             | https://eldritch.cafe/@Barmaid/101313123131827136  |
 | melalandia.tk           | 2018-12-29 | Suspendue | Incitation à la haine et pédopornographie (lolicon)           | https://eldritch.cafe/@Barmaid/101325918467427039  |
+| rapefeminists.network   | 2019-01-19 | Suspendue | Incitation au viol                                            | https://eldritch.cafe/@Barmaid/101445095780272860  |
 
 ## Instances masquées
 
