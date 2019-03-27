@@ -44,3 +44,4 @@ La présente liste recense les instances suspendues et masquées par [Eldritch C
 | pawoo.net              | 2018-04-09 | Masquée + médias rejetés | Pédopornographie (lolicon) |                                                   |
 | social.targaryen.house | 2018-04-09 | Masquée                  | Tolère le harcélement      |                                                   |
 | cryptids.online        | 2018-12-19 | Masquée                  | Incite au harcélement      | https://eldritch.cafe/@Barmaid/101269432833100493 |
+| baraag.net             | 2019-01-25 | Masquée + médias rejetés | Pédopornographie (lolicon) | https://eldritch.cafe/@Barmaid/101480005678089982 |

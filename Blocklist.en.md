@@ -44,3 +44,4 @@ This list is an inventory of every instances suspended or silenced by [Eldritch 
 | pawoo.net              | 2018-04-09 | Silenced + rejected medias | Child pornography (lolicon) |                                                   |
 | social.targaryen.house | 2018-04-09 | Silenced                   | Enable harassment           |                                                   |
 | cryptids.online        | 2018-12-19 | Silenced                   | Enable harassment           | https://eldritch.cafe/@Barmaid/101269462136161745 |
+| baraag.net             | 2019-01-25 | Silenced + rejected medias | Child pornography (lolicon) | https://eldritch.cafe/@Barmaid/101480005678089982 |
