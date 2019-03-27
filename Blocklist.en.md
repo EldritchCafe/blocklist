@@ -36,6 +36,7 @@ This list is an inventory of every instances suspended or silenced by [Eldritch 
 | gameliberty.club        | 2018-12-27 | Suspended | Home to nazis                                    | https://eldritch.cafe/@Barmaid/101313123131827136  |
 | melalandia.tk           | 2018-12-29 | Suspended | Hate speech and child pornography (lolicon)      | https://eldritch.cafe/@Barmaid/101325918467427039  |
 | rapefeminists.network   | 2019-01-19 | Suspended | Rape apology                                     | https://eldritch.cafe/@Barmaid/101445095780272860  |
+| mobile.co               | 2019-01-25 | Suspended | Far right instance                               | https://eldritch.cafe/@Barmaid/101480064757909197  |
 
 ## Silenced instances
 
