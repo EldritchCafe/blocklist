@@ -27,6 +27,7 @@ La présente liste recense les instances suspendues et masquées par [Eldritch C
 | pleroma.rareome.ga | 2018-06-06 | Suspendue | Ne respecte pas la confidentialité des messages               | https://eldritch.cafe/@Barmaid/100160320770382788  |
 | waifu.social       | 2018-08-16 | Suspendue | Antenne de JVC                                                | https://eldritch.cafe/@Barmaid/100561860716459031  |
 | albin.social       | 2018-10-23 | Suspendue | Utilise de la publicité ciblée                                | https://eldritch.cafe/@Barmaid/100946850501504142  |
+| newjack.city       | 2018-11-11 | Suspendue | Nid de follow bots                                            | https://eldritch.cafe/@Barmaid/101054370921837295  |
 
 ## Instances masquées
 
