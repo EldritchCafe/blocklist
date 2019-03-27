@@ -38,6 +38,7 @@ This list is an inventory of every instances suspended or silenced by [Eldritch 
 | rapefeminists.network   | 2019-01-19 | Suspended | Rape apology                                     | https://eldritch.cafe/@Barmaid/101445095780272860  |
 | mobile.co               | 2019-01-25 | Suspended | Far right instance                               | https://eldritch.cafe/@Barmaid/101480064757909197  |
 | weeb.academy            | 2019-02-21 | Suspended | Oppressive shitposting                           | https://eldritch.cafe/@Barmaid/101632791857674785  |
+| neckbeard.xyz           | 2019-03-04 | Suspended | Sexism                                           | https://eldritch.cafe/@Barmaid/101690645728346284  |
 
 ## Silenced instances
 

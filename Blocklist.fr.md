@@ -38,6 +38,7 @@ La présente liste recense les instances suspendues et masquées par [Eldritch C
 | rapefeminists.network   | 2019-01-19 | Suspendue | Incitation au viol                                            | https://eldritch.cafe/@Barmaid/101445095780272860  |
 | mobile.co               | 2019-01-25 | Suspendue | Instance d’extrême droite                                     | https://eldritch.cafe/@Barmaid/101480064757909197  |
 | weeb.academy            | 2019-02-21 | Suspendue | Shitposting oppressif                                         | https://eldritch.cafe/@Barmaid/101632791857674785  |
+| neckbeard.xyz           | 2019-03-04 | Suspendue | Sexisme                                                       | https://eldritch.cafe/@Barmaid/101690645728346284  |
 
 ## Instances masquées
 
